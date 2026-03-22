@@ -1,37 +1,37 @@
 <h1 align="center"><span style="color:#00BFFF">NGUYEN VAN PHUONG</span></h1>
 
 <p align="center">
-  Backend Developer · Golang & Java · AI Enthusiast · Blockchain Explorer · Cybersecurity
+  Junior Backend Developer · Java, Python, C++, Node.js · Web Development · Security & Ethical Hacking
 </p>
 
 ---
 
 ### ABOUT ME
-* Backend Developer with solid experience in **Java (Spring Boot)** and **Golang** for building scalable services.  
-* Strong focus on **REST/gRPC APIs, microservices, and high-concurrency systems**.  
-* Build trading bots, automation tools, and experiment with **AI & blockchain**.  
-* Currently deepening knowledge in **cybersecurity & system-level programming**.
+* **Junior Backend Developer** with strong foundation in **Java**, **Python**, **C++**, and **Node.js** for building scalable applications.  
+* Passionate about **REST APIs, microservices, and modern backend architectures**.  
+* Experience developing **automation tools, web applications, and system solutions**.  
+* **Security enthusiast** with knowledge in **ethical hacking, penetration testing, and secure coding practices**.  
+* Eager to contribute to **production systems** and grow in **software development & cybersecurity**.
 
 ---
 
 ### TECH STACK
 
 #### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
 #### Backend & System
-- **Golang**: net/http, Gin, gRPC, concurrency (goroutines, channels), clean architecture  
-- **Java**: Spring Boot, Spring Security, JPA/Hibernate  
-- **Python**: FastAPI, automation, scripting  
-- **NodeJS**: REST APIs
+- **Java**: Spring Boot, Spring MVC, JPA/Hibernate, REST APIs, Maven/Gradle
+- **Python**: Django, Flask, FastAPI, REST APIs, SQLAlchemy, Pandas
+- **C++**: OOP, Data Structures, Algorithms, STL, System Programming
+- **Node.js**: Express.js, REST APIs, MongoDB, Real-time applications
+- **General**: RESTful APIs, Microservices, Git, Docker Basics
 
 ---
 
@@ -42,33 +42,36 @@
 
 ---
 
-#### DevOps & Tools
-- Docker, Docker Compose  
-- Git, GitHub Actions  
-- Postman  
-- IntelliJ IDEA, VS Code  
+#### Education & Training
+- **Self-taught Developer**: Online courses, documentation, hands-on projects
+- **Focus Areas**: Backend development, System design, Algorithm problem-solving
+- **Learning Platforms**: Coursera, Udemy, freeCodeCamp, GitHub projects
 
 ---
 
-#### AI / Data
-- scikit-learn  
-- OpenCV  
-- pandas, NumPy  
+#### Projects & Experience
+- **Java Projects**: Spring Boot REST APIs, Database integration, Unit testing
+- **Python Projects**: Web scrapers, Data analysis tools, Automation scripts
+- **C++ Projects**: Algorithm implementations, System utilities, Performance testing
+- **Node.js Projects**: Express servers, Real-time chat apps, API integrations
 
 ---
 
-#### Blockchain
-- Ethereum  
-- Solidity Smart Contracts  
-- Web3.py  
+#### Security & Ethical Hacking
+- **Penetration Testing**: Web app security, API testing, vulnerability assessment
+- **Security Tools**: Metasploit, Burp Suite, Nmap, Wireshark
+- **Secure Coding**: OWASP Top 10, Input validation, Authentication/Authorization
+- **Cryptography**: Encryption basics, Hashing, Digital signatures
+- **Network Security**: Firewalls, IDS/IPS basics, Security monitoring
 
 ---
 
-#### Security
-- OWASP Top 10  
-- JWT / OAuth2  
-- Encryption basics  
-- Secure API design  
+#### Career Focus - Junior Roles
+- **Backend Development**: REST APIs, Microservices, Database Design
+- **Web Applications**: Full-stack development with modern frameworks
+- **Security Engineering**: Secure code review, Vulnerability assessment, Penetration testing
+- **DevSecOps**: Security integration in CI/CD, Security monitoring
+- **Agile Development**: Team collaboration, code reviews, security-focused testing
 
 ---
 
