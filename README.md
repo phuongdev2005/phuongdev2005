@@ -1,7 +1,7 @@
 <h1 align="center"><span style="color:#00BFFF">NGUYEN VAN PHUONG</span></h1>
 
 <p align="center">
-  Junior Backend Developer · Java, Python, C++, Node.js · Web Development · Security & Ethical Hacking
+  Junior Backend Developer · Security & Web Development
 </p>
 
 ---
@@ -27,10 +27,10 @@
 ---
 
 #### Backend & System
-- **Java**: Spring Boot, Spring MVC, JPA/Hibernate, REST APIs, Maven/Gradle
-- **Python**: Django, Flask, FastAPI, REST APIs, SQLAlchemy, Pandas
+- **Java**: Spring Boot, Spring MVC, JPA/Hibernate, Maven/Gradle
+- **Python**: Django, Flask, FastAPI, SQLAlchemy, Pandas
 - **C++**: OOP, Data Structures, Algorithms, STL, System Programming
-- **Node.js**: Express.js, REST APIs, MongoDB, Real-time applications
+- **Node.js**: Express.js, MongoDB, Real-time applications
 - **General**: RESTful APIs, Microservices, Git, Docker Basics
 
 ---
@@ -67,11 +67,11 @@
 ---
 
 #### Career Focus - Junior Roles
-- **Backend Development**: REST APIs, Microservices, Database Design
+- **Backend Development**: Microservices, Database Design, System architecture
 - **Web Applications**: Full-stack development with modern frameworks
-- **Security Engineering**: Secure code review, Vulnerability assessment, Penetration testing
-- **DevSecOps**: Security integration in CI/CD, Security monitoring
-- **Agile Development**: Team collaboration, code reviews, security-focused testing
+- **Security Engineering**: Secure code review, Vulnerability assessment
+- **DevSecOps**: Security integration in CI/CD, Security automation
+- **Agile Development**: Team collaboration, code reviews, testing
 
 ---
 
