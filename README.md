@@ -1,13 +1,13 @@
 <h1 align="center"><span style="color:#00BFFF">NGUYEN VAN PHUONG</span></h1>
 
 <p align="center">
-  Junior Backend Developer · Security & Web Development
+Backend Developer
 </p>
 
 ---
 
 ### ABOUT ME
-* **Junior Backend Developer** with strong foundation in **Java**, **Python**, **C++**, and **Node.js** for building scalable applications.  
+* **Backend Developer** with strong foundation in **Java**, **Python**, **Go**, and **Node.js** for building scalable applications.  
 * Passionate about **REST APIs, microservices, and modern backend architectures**.  
 * Experience developing **automation tools, web applications, and system solutions**.  
 * **Security enthusiast** with knowledge in **ethical hacking, penetration testing, and secure coding practices**.  
