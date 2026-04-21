@@ -1,7 +1,7 @@
 <h1 align="center"><span style="color:#00BFFF">NGUYEN VAN PHUONG</span></h1>
 
 <p align="center">
-Backend Developer
+Backend Developer - DevOps
 </p>
 
 ---
