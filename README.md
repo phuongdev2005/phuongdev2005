@@ -1,76 +1,81 @@
 <h1 align="center"><span style="color:#00BFFF">NGUYEN VAN PHUONG</span></h1>
 
 <p align="center">
-Backend Developer - DevOps
+Java Developer | DevOps Engineer
 </p>
 
 ---
 
 ### ABOUT ME
-* **Backend Developer** with strong foundation in **Java**, **Python**, **Go**, and **Node.js** for building scalable applications.  
-* Passionate about **REST APIs, microservices, and modern backend architectures**.  
-* Experience developing **automation tools, web applications, and system solutions**.  
-* **Security enthusiast** with knowledge in **ethical hacking, penetration testing, and secure coding practices**.  
-* Eager to contribute to **production systems** and grow in **software development & cybersecurity**.
+
+* **Java Developer** focused on building backend applications, REST APIs, and database-driven systems.
+* Comfortable working with **Spring Boot**, application architecture, API design, and backend integration.
+* **DevOps-oriented developer** with hands-on interest in deployment, automation, Linux environments, and CI/CD workflows.
+* Use **Python** and **Bash** for scripting, automation, tooling, and system operations.
+* Have basic knowledge of **Golang** and **JavaScript**, with **HTML/CSS** for basic web structure and styling.
+* Interested in building reliable services, improving developer workflows, and operating applications in production-like environments.
 
 ---
 
 ### TECH STACK
 
-#### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+#### Programming & Scripting
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+#### Web Basics
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-#### Backend & System
-- **Java**: Spring Boot, Spring MVC, JPA/Hibernate, Maven/Gradle
-- **C++**: OOP, Data Structures, Algorithms, STL, System Programming
-- **Node.js**: Express.js, MongoDB, Real-time applications
-- **General**: RESTful APIs, Microservices, Git, Docker Basics
+#### Backend Development
+
+- **Java**: Spring Boot, Spring MVC, RESTful APIs, JPA/Hibernate
+- **Build Tools**: Maven, Gradle
+- **API Development**: Request/response design, validation, authentication basics
+- **Testing**: Unit testing, integration testing, API testing
+- **Version Control**: Git, GitHub
+- **Basic Web Skills**: JavaScript, HTML, CSS
+- **Basic Golang**: Syntax, simple CLI tools, backend fundamentals
+
+---
+
+#### DevOps & System
+
+- **Operating Systems**: Linux, Windows
+- **Scripting**: Bash automation, Python utilities
+- **Containerization**: Docker fundamentals, Docker Compose
+- **CI/CD**: GitHub Actions basics, build and deployment workflows
+- **Server Operations**: Environment configuration, log checking, process management
 
 ---
 
 #### Databases
-- PostgreSQL, MySQL  
-- MongoDB  
-- Redis (cache, session)
 
----
-
-#### Education & Training
-- **Self-taught Developer**: Online courses, documentation, hands-on projects
-- **Focus Areas**: Backend development, System design, Algorithm problem-solving
-- **Learning Platforms**: Coursera, Udemy, freeCodeCamp, GitHub projects
+- PostgreSQL
+- MySQL
+- Redis basics
 
 ---
 
 #### Projects & Experience
-- **Java Projects**: Spring Boot REST APIs, Database integration, Unit testing
-- **Python Projects**: Web scrapers, Data analysis tools, Automation scripts
-- **C++ Projects**: Algorithm implementations, System utilities, Performance testing
-- **Node.js Projects**: Express servers, Real-time chat apps, API integrations
+
+- **Java Backend Projects**: Spring Boot REST APIs, database integration, authentication, CRUD systems
+- **DevOps Practice**: Dockerized applications, deployment scripts, CI/CD workflow setup
+- **Python Tools**: Automation scripts, file processing, small utilities
+- **Bash Scripts**: System setup scripts, command-line automation, deployment helpers
 
 ---
 
-#### Security & Ethical Hacking
-- **Penetration Testing**: Web app security, API testing, vulnerability assessment
-- **Security Tools**: Metasploit, Burp Suite, Nmap, Wireshark
-- **Secure Coding**: OWASP Top 10, Input validation, Authentication/Authorization
-- **Cryptography**: Encryption basics, Hashing, Digital signatures
-- **Network Security**: Firewalls, IDS/IPS basics, Security monitoring
+#### Career Focus
 
----
-
-#### Career Focus - Junior Roles
-- **Backend Development**: Microservices, Database Design, System architecture
-- **Web Applications**: Full-stack development with modern frameworks
-- **Security Engineering**: Secure code review, Vulnerability assessment
-- **DevSecOps**: Security integration in CI/CD, Security automation
-- **Agile Development**: Team collaboration, code reviews, testing
-
----
-
+- Java Backend Development
+- DevOps Engineering
+- CI/CD and deployment automation
+- Backend systems that are maintainable, testable, and easy to operate
