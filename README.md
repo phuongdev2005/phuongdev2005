@@ -28,8 +28,6 @@ Passionate about backend development and cloud infrastructure, with hands-on exp
 
 - 🔭 **Targeting**: Backend Java Engineer · DevOps Engineer
 - 💡 **Strength**: Designing clean backend architectures with **Java Spring Boot** and automating infrastructure with **Terraform & GitHub Actions**
-- ☁️ **Cloud**: AWS Certified Solutions Architect – Associate (SAA-C03)
-- 🗣️ **English**: TOEIC 750
 
 ---
 
