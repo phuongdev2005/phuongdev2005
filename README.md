@@ -8,11 +8,7 @@
 ---
 
 ##  About Me
-
-Passionate about backend development and cloud infrastructure, with hands-on experience building and deploying production-ready systems on AWS.
-
-- **Targeting**: Backend Java Engineer · DevOps Engineer
-- **Strength**: Designing clean backend architectures with **Java Spring Boot** and automating infrastructure with **Terraform & GitHub Actions**
+HIHI 
 
 ---
 
