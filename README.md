@@ -4,14 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=90E0EF&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Java+Engineer+%F0%9F%9A%80;Aspiring+DevOps+Engineer+%E2%98%81%EF%B8%8F;Spring+Boot+%7C+AWS+%7C+Docker+%7C+Terraform;Building+production-ready+systems)](https://git.io/typing-svg)
 
-
----
-
-##  About Me
-HIHI 
-
----
-
 ##  Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
