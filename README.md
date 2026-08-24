@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 > I'm actively seeking opportunities as a **Backend Java Engineer** or **DevOps Engineer**.
 > Passionate about building scalable, cloud-native systems — from clean Spring Boot APIs to fully automated CI/CD pipelines on AWS.
@@ -56,71 +56,9 @@ Passionate about backend development and cloud infrastructure, with hands-on exp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phuongdev2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdev2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuongdev2005&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏗️ Projects
-
-### 🔗 [LinkMail Platform](https://github.com/phuongdev2005/url_tempmail)
-> `Java 21` · `Spring Boot 3` · `Spring WebFlux` · `PostgreSQL` · `Redis` · `AWS (ECS Fargate, SES, SQS, CloudFront, S3)` · `Terraform` · `GitHub Actions`
-
-SaaS platform combining a **URL shortener** and a **disposable temp-mail service**.
-
-- ☁️ Provisioned full AWS infra with Terraform — ECS Fargate, RDS Multi-AZ, ElastiCache Redis, CloudFront, ACM SSL
-- ⚙️ Built GitHub Actions CI/CD pipeline: Docker → ECR → ECS rolling deploy
-- 📨 Designed event-driven email pipeline: SES → S3 → SQS → mail-service → WebSocket push
-- ⚡ Kept redirect p99 latency **< 50 ms** by offloading analytics asynchronously via SQS → DynamoDB
-
----
-
-### 🏦 [Mini Banking System](https://github.com/phuongdev2005/mini-banking-system)
-> `Java` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL` · `Docker Compose` · `WebSocket`
-
-Microservice banking backend with **6 isolated services** and databases.
-
-- 🔐 Implemented JWT auth for 3 roles (Customer, Staff, Admin) and full KYC review workflow
-- 🐳 Containerized all services with Docker Compose; enforced port allocation conventions
-- 📡 Delivered real-time transaction notifications via WebSocket
-- 📄 Authored full technical docs: BRD, SAD, API Spec, Database Design, UI/UX guidelines
-
----
-
-### 🤖 [HUSTStudy Bot](https://github.com/phuongdev2005/study_bot)
-> `Java` · `Spring Boot` · `Python` · `MySQL` · `Telegram Bot API` · `Google Sheets API` · `APScheduler` · `AWS`
-
-Telegram bot helping students manage schedules, deadlines, and personal finances.
-
-- 🔄 Dual-backend: Java Spring Boot (REST API + business logic) + Python (bot interactions + APScheduler)
-- 💰 Personal finance module with category budgets, spending alerts at 80%/100%, and monthly reports
-- 📊 Auto-exports timetable and expense reports to Google Sheets; deployed on VPS and AWS
-
----
-
-## 🏅 Certifications
-
-| Badge | Certification | Date |
-|-------|--------------|------|
-| ![AWS](https://img.shields.io/badge/AWS_SAA--C03-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | AWS Certified Solutions Architect – Associate | Mar 2026 |
-| ![TOEIC](https://img.shields.io/badge/TOEIC_750-0052CC?style=flat-square&logo=duolingo&logoColor=white) | TOEIC English Proficiency | May 2026 |
-
----
 
 <div align="center">
 
